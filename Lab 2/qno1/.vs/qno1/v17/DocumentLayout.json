@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\qno1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DBE74-BF0C-4131-B383-7AC8F4DD0C37}|qno1\\qno1.csproj|c:\\users\\lenovo\\source\\repos\\qno1\\qno1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5DBE74-BF0C-4131-B383-7AC8F4DD0C37}|qno1\\qno1.csproj|solutionrelative:qno1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\qno1\\qno1\\Program.cs",
+              "RelativeDocumentMoniker": "qno1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\qno1\\qno1\\Program.cs",
+              "RelativeToolTip": "qno1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:29:11.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
