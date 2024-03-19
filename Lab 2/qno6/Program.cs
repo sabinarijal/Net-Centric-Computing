@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string[] names = { "Divya", "Divsa", "Sabina", "Krisha", "Asmita" };
+        string[] names = { "Ram", "Shyam", "Hari", "Bikash", "Mahesh" };
         var sortedNames = names.OrderBy(name => name);
         foreach (var name in sortedNames)
         {
