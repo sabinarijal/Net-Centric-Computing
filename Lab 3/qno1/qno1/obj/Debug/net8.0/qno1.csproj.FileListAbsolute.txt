@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\qno1\qno1\bin\Debug\net8.0\qno1.exe
+C:\Users\Lenovo\source\repos\qno1\qno1\bin\Debug\net8.0\qno1.deps.json
+C:\Users\Lenovo\source\repos\qno1\qno1\bin\Debug\net8.0\qno1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\qno1\qno1\bin\Debug\net8.0\qno1.dll
+C:\Users\Lenovo\source\repos\qno1\qno1\bin\Debug\net8.0\qno1.pdb
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\qno1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\qno1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\qno1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\qno1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\qno1.dll
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\refint\qno1.dll
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\qno1.pdb
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\qno1.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\qno1\qno1\obj\Debug\net8.0\ref\qno1.dll
